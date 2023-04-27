@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=spormuv)
+![Codewars](https://github.r2v.ch/codewars?user=spormuv&theme=gradient)
